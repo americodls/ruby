@@ -1340,6 +1340,146 @@
       "uuid": "e15a88ad-a43c-47bb-bd9f-d9d83513c73e",
       "slug": "ternary-operator",
       "name": "Ternary operator"
+    },
+    {
+      "uuid": "bd882a4f-965f-4945-9596-b7421160dbf4",
+      "slug": "regular-expressions",
+      "name": "Regular Expressions"
+    },
+    {
+      "uuid": "14320f21-d6ac-494b-a3a4-99bb5946a22e",
+      "slug": "ordering",
+      "name": "Ordering"
+    },
+    {
+      "uuid": "47450719-2b88-4efd-9e34-a009f87a7215",
+      "slug": "classes",
+      "name": "Classes"
+    },
+    {
+      "uuid": "a1ca70e9-2eda-4ac1-81d5-71d66dd8c74c",
+      "slug": "hashes",
+      "name": "Hashes"
+    },
+    {
+      "uuid": "ea731f81-a3c6-4dc2-bc3a-1b478dbd4c7c",
+      "slug": "casting",
+      "name": "Casting"
+    },
+    {
+      "uuid": "7e219c74-1383-42dc-a663-dea5a14870c9",
+      "slug": "sets",
+      "name": "Sets"
+    },
+    {
+      "uuid": "37164c2b-9615-474e-9d8a-05c806ac2d40",
+      "slug": "equality",
+      "name": "Equality"
+    },
+    {
+      "uuid": "502b4cae-a433-41e2-ab51-df6f84417196",
+      "slug": "time",
+      "name": "Time"
+    },
+    {
+      "uuid": "e80249a1-a02a-4003-b1da-05696d97fde5",
+      "slug": "math-operators",
+      "name": "Math Operators"
+    },
+    {
+      "uuid": "6a0fc1fe-06a7-4d67-ac8a-eed4b9084cb2",
+      "slug": "enumerable",
+      "name": "Enumerable"
+    },
+    {
+      "uuid": "9fb5b629-89d5-4ad4-bce1-2d90fd4f7f29",
+      "slug": "recursion",
+      "name": "Recursion"
+    },
+    {
+      "uuid": "70aeae0c-fb8e-4d82-9d2c-1313b87f5e5a",
+      "slug": "integral-numbers",
+      "name": "Integral Numbers"
+    },
+    {
+      "uuid": "c141f92e-cf7b-4677-a042-a35239b83977",
+      "slug": "constructors",
+      "name": "Constructors"
+    },
+    {
+      "uuid": "b6931d73-7a08-4fdc-a0c1-4bcc52428725",
+      "slug": "lambdas",
+      "name": "Lambdas"
+    },
+    {
+      "uuid": "fd88b790-3fad-40d6-b8ce-75fbc1f13593",
+      "slug": "higher-order-functions",
+      "name": "Higher Order Functions"
+    },
+    {
+      "uuid": "8722dd2c-a34a-4de4-94b8-a67900fafd25",
+      "slug": "lazy-evaluation",
+      "name": "Lazy Evaluation"
+    },
+    {
+      "uuid": "a810008a-75aa-4da1-8f1b-a3caa06a4323",
+      "slug": "stacks",
+      "name": "Stacks"
+    },
+    {
+      "uuid": "c6a5bcc3-6f11-45cb-86a8-d8c00aa9f3b9",
+      "slug": "bit-manipulation",
+      "name": "Bit Manipulation"
+    },
+    {
+      "uuid": "a7fea448-5d4e-467b-8eb0-bd8f62056904",
+      "slug": "symbols",
+      "name": "Symbols"
+    },
+    {
+      "uuid": "636a3590-2250-44e4-a1bc-f8cecfe2641e",
+      "slug": "parameters",
+      "name": "Parameters"
+    },
+    {
+      "uuid": "c87a0928-f23f-493f-accb-7111d8ff5296",
+      "slug": "randomness",
+      "name": "Randomness"
+    },
+    {
+      "uuid": "dc35978d-9444-4a7c-89f6-00dec362f17d",
+      "slug": "queues",
+      "name": "Queues"
+    },
+    {
+      "uuid": "741bcd93-21ee-406b-bff3-38ba1142e705",
+      "slug": "immutability",
+      "name": "Immutability"
+    },
+    {
+      "uuid": "6d52f35e-9ffe-4737-9e36-441c875d9533",
+      "slug": "structs",
+      "name": "Structs"
+    },
+    {
+      "uuid": "f3cfbe5e-9e6e-43dc-9a30-ffc38ca3f7a3",
+      "slug": "dates",
+      "name": "Dates"
+    },
+    {
+      "uuid": "817e06ce-e565-4d81-a2a7-4698d210f060",
+      "slug": "string-formatting",
+      "name": "String Formatting"
+    },
+    {
+      "uuid": "06f1e9c8-891f-4464-896d-9ae935519262",
+      "slug": "integers",
+      "name": "Integers"
+    },
+    {
+      "uuid": "b5c1bc89-8f2a-440b-b096-e028f5a6027e",
+      "slug": "generic-methods",
+      "name": "Generic Methods"
     }
   ],
   "key_features": [
